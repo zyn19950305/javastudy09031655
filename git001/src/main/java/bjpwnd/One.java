@@ -102,6 +102,6 @@ package bjpwnd;
  */
 public class One {
     public static void main(String[] args) {
-        System.out.println("这是Javase项目");
+        System.out.println("这是Javase项目啊啊啊啊啊啊啊啊啊啊啊啊搜索算");
     }
 }
